@@ -1,4 +1,17 @@
 /* Add a black background color to the top navigation */
 h2{
   text-align:center;
+  color:plum;
+}
+.classy{
+  color:indianred;
+}
+table{
+  color:lime;
+}
+ul{
+  color:darkcyan;
+}
+body{
+  background-color: gold;
 }
